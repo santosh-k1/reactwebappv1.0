@@ -1,0 +1,32 @@
+{
+  "name": "reactwebapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "griddle-react": "^1.0.0",
+    "jquery": "^3.3.1",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-data-grid": "^4.0.7",
+    "react-dom": "^16.2.0",
+    "react-dropdown-multiselect": "^1.0.0",
+    "react-redux-grid": "^5.6.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-select": "^2.0.0-beta.7",
+    "react-select-plus": "^1.0.0-rc.3.patch7",
+    "react-spinkit": "^3.0.0",
+    "reactstrap": "^5.0.0-beta.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^3.1.1"
+  }
+}
